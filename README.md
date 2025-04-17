@@ -1,23 +1,11 @@
-# Language
-![build status](https://github.com/praisetompane/language/actions/workflows/language.yaml/badge.svg) <br>
+# CSS
+![build status](https://github.com/praisetompane/css/actions/workflows/css.yaml/badge.svg) <br>
 
 ## Objectives
-- An in-depth study of:
-    - Language's Compiler/Interpreter.
-        - This focuses on:
-            - []()
-            - [Annotations on the actual interpreter implementation]()
-    - Language's language design, implementation and ecosystem.
+- Notes: CSS
 
 ## Language Details
-- [Language Specification]
-    - the syntax and semantics description
-    - key topics:
-        - implementations
-        - lexical analysis
-        - data model
-        - standard type hierarchy
-        - execution model
+- [Language Specification](https://www.w3.org/Style/CSS/specs.en.html)
 - [Compiler | Interpreter]()
 - [Type System]()
 - [Memory Model]()
@@ -44,7 +32,7 @@
 ## Community
 
 ## Learning Resources
-  - [roadmap]()
+  - [roadmap](https://www.youtube.com/watch?v=G3e-cpL7ofc)
   - [practice problems]()
 
 ## Spell Check
