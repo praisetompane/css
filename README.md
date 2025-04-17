@@ -32,7 +32,7 @@
 ## Community
 
 ## Learning Resources
-  - [roadmap](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+  - [roadmap]()
   - [practice problems]()
 
 ## Spell Check
