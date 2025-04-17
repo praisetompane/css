@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    text-transform: capitalize;
+}
+
+h2 {
+    color: pink;
+    text-align: center;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    color: rgb(192, 255, 232);
+    text-decoration: overline;
+}
+
+h5 {
+    color: orange;
+    text-align: right;
+}
