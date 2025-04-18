@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Lists</title>
+    <style>
+        ol {
+            background-color: pink;
+            padding: 20px;
+        }
+
+        ol li {
+            background-color: orange;
+        }
+
+        ul {
+            background-color: blue;
+            padding: 20px;
+            list-style-type: circle;
+        }
+
+        ul li {
+            background-color: yellow;
+            margin: 5px;
+        }
+
+        #list_style_image {
+            list-style-image: url('img/list.jpg');
+            list-style-position: inside;
+        }
+
+        #list_style_inside_indicator {
+            list-style-position: inside;
+            list-style-type: upper-roman;
+        }
+    </style>
+</head>
+
+<body>
+    <label for="fruit">Fruit:</label>
+    <ol id="fruit">
+        <li>Banana</li>
+        <li>Orange</li>
+        <li>Pear</li>
+    </ol>
+
+    <label for="racing_series">Racing Series:</label>
+    <ul id="racing_series">
+        <li>Moto GP</li>
+        <li>F1</li>
+        <li>Rally</li>
+    </ul>
+
+    <label for="racing_series">List With Inside Indicator</label>
+    <ul id="list_style_inside_indicator">
+        <li>AA</li>
+        <li>BB</li>
+        <li>CC</li>
+    </ul>
+
+    <label for="racing_series">List With List Style Image</label>
+    <ul id="list_style_image">
+        <li>AA</li>
+        <li>BB</li>
+        <li>CC</li>
+    </ul>
+</body>
+
+</html>
