@@ -1,0 +1,12 @@
+{
+	"name": "css",
+	"image": "mcr.microsoft.com/vscode/devcontainers/universal",
+	"customizations": {
+		"vscode": {
+			"extensions": [],
+			"settings": {}
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/css,type=bind,consistency=delegated",
+	"workspaceFolder": "/css"
+}
