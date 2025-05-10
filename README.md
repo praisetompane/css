@@ -2,7 +2,7 @@
 ![build status](https://github.com/praisetompane/css/actions/workflows/css.yaml/badge.svg) <br>
 
 ## Objectives
-- Notes: CSS
+- Notes: The CSS Language
 
 ## Language Details
 - [Language Specification](https://www.w3.org/Style/CSS/specs.en.html)
